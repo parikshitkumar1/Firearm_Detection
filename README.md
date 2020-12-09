@@ -20,7 +20,7 @@ $ python3 detection.py
 
 ![Screenshot from 2020-12-09 11-06-52](https://user-images.githubusercontent.com/52780573/101591249-16b95880-3a12-11eb-98b6-523326025403.png)
 
-## Edit this code to change the path to the one with your images:
+### Edit this code to change the path to the one with your images:
 
 ![Screenshot from 2020-12-09 10-46-09](https://user-images.githubusercontent.com/52780573/101591311-46686080-3a12-11eb-8288-655c9b759f51.png)
 
