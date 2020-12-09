@@ -26,8 +26,6 @@ $ python3 detection.py
 
 ## Result:
 
-![simplescreenrecorder-2020-12-09_10 25 37(4)](https://user-images.githubusercontent.com/52780573/101593167-867d1280-3a15-11eb-8e36-a1ea28458b39.gif)
-
 ![simplescreenrecorder-2020-12-09_10 25 37](https://user-images.githubusercontent.com/52780573/101593384-d360e900-3a15-11eb-8107-ea885ae4adb1.gif)
 
 ## Might Do
