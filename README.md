@@ -16,7 +16,7 @@ $ python3 detection.py
 ```
 ## Do change the path of the images you want to detect on by editing the main detection.py file, code to be edited will be in the images
 
-## After downloading and adding weights, the directory should contain the following:
+### After downloading and adding weights, the directory should contain the following files:
 
 ![Screenshot from 2020-12-09 11-06-52](https://user-images.githubusercontent.com/52780573/101591249-16b95880-3a12-11eb-98b6-523326025403.png)
 
