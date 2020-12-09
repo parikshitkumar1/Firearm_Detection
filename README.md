@@ -1,13 +1,14 @@
 # Firearm Detection
 
 ## Motivation
-To be used in real-time for secuirty systems
+To be used in real-time for security systems
 ## Requirements
 Python 3.8 or above with all [requirements](requirements.txt) dependencies installed. To install run:
 ```python
 $ pip3 install -r requirements.txt
 ```
-## Downloads weights from here and put them in the root of this directory: https://drive.google.com/file/d/1nITfy2NLJDMwfkEkPvadbUBs8zYs8yUL/view?usp=sharing
+## Downloads weights from here and put them in the root of this directory: 
+# https://drive.google.com/file/d/1nITfy2NLJDMwfkEkPvadbUBs8zYs8yUL/view?usp=sharing
 
 ## To run
 ```python
@@ -26,6 +27,8 @@ $ python3 detection.py
 ## Result:
 
 ![simplescreenrecorder-2020-12-09_10 25 37(4)](https://user-images.githubusercontent.com/52780573/101593167-867d1280-3a15-11eb-8e36-a1ea28458b39.gif)
+
+![simplescreenrecorder-2020-12-09_10 25 37](https://user-images.githubusercontent.com/52780573/101593384-d360e900-3a15-11eb-8107-ea885ae4adb1.gif)
 
 ## Might Do
 - [ ] Implement in real time, train with more data
