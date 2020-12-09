@@ -14,7 +14,7 @@ $ pip3 install -r requirements.txt
 ```python
 $ python3 detection.py
 ```
-## Do change the path of the images you want to detect on by editing the main detection.py file, code to be edited will be in the images
+### Do change the path of the images you want to detect on by editing the main detection.py file, code to be edited will be in the images
 
 ### After downloading and adding weights, the directory should contain the following files:
 
