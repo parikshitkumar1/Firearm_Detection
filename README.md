@@ -32,5 +32,6 @@ $ python3 detection.py
 ![simplescreenrecorder-2020-12-09_10 25 37](https://user-images.githubusercontent.com/52780573/101593384-d360e900-3a15-11eb-8107-ea885ae4adb1.gif)
 
 ## Might Do
-- [ ] Implement in real time, train with more data
+- [ ] Implement in real time or with video
+- [ ] Train with more data
 ----
