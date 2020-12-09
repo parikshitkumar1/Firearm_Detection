@@ -7,7 +7,7 @@ Python 3.8 or above with all [requirements](requirements.txt) dependencies insta
 ```python
 $ pip3 install -r requirements.txt
 ```
-## Downloads weights from here and put them in the root of this directory: 
+### Downloads weights from here and put them in the root of this directory: 
 ### https://drive.google.com/file/d/1nITfy2NLJDMwfkEkPvadbUBs8zYs8yUL/view?usp=sharing
 
 ## To run
