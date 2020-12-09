@@ -32,4 +32,4 @@ $ python3 detection.py
 
 ## Might Do
 - [ ] Implement in real time, train with more data
----
+----
