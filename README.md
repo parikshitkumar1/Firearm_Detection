@@ -19,7 +19,7 @@ $ python3 detection.py
 
 ### After downloading and adding weights, the directory should contain the following files:
 
-<img src="https://user-images.githubusercontent.com/52780573/101591249-16b95880-3a12-11eb-98b6-523326025403.png" data-canonical-src="" width="800" height="500" />
+![image](https://user-images.githubusercontent.com/52780573/102657944-9d9dcc00-419c-11eb-9af3-63bf13193752.png)
 
 ### Edit this code to change the path to the one with your images:
 
