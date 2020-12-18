@@ -29,8 +29,6 @@ $ python3 detection.py
 
 <img src="https://user-images.githubusercontent.com/52780573/101593570-26d33700-3a16-11eb-9776-0715fa156ad7.gif" data-canonical-src="" width="800" height="500" />
 
-![simplescreenrecorder-2020-12-09_10 25 37](https://user-images.githubusercontent.com/52780573/101593384-d360e900-3a15-11eb-8107-ea885ae4adb1.gif)
-
 ## Might Do
 - [ ] Train with more data
 - [ ] Implement with video
