@@ -19,15 +19,15 @@ $ python3 detection.py
 
 ### After downloading and adding weights, the directory should contain the following files:
 
-![Screenshot from 2020-12-09 11-06-52](https://user-images.githubusercontent.com/52780573/101591249-16b95880-3a12-11eb-98b6-523326025403.png)
+<img src="https://user-images.githubusercontent.com/52780573/101591249-16b95880-3a12-11eb-98b6-523326025403.png" data-canonical-src="" width="800" height="500" />
 
 ### Edit this code to change the path to the one with your images:
 
-![Screenshot from 2020-12-09 10-46-09](https://user-images.githubusercontent.com/52780573/101591311-46686080-3a12-11eb-8288-655c9b759f51.png)
+<img src="https://user-images.githubusercontent.com/52780573/101591311-46686080-3a12-11eb-8288-655c9b759f51.png" data-canonical-src="" width="800" height="500" />
 
 ## Result:
 
-![simplescreenrecorder-2020-12-09_10 25 37(4)](https://user-images.githubusercontent.com/52780573/101593570-26d33700-3a16-11eb-9776-0715fa156ad7.gif)
+<img src="https://user-images.githubusercontent.com/52780573/101593570-26d33700-3a16-11eb-9776-0715fa156ad7.gif" data-canonical-src="" width="800" height="500" />
 
 ![simplescreenrecorder-2020-12-09_10 25 37](https://user-images.githubusercontent.com/52780573/101593384-d360e900-3a15-11eb-8107-ea885ae4adb1.gif)
 
