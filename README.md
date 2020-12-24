@@ -33,4 +33,4 @@ $ python3 detection.py
 - [ ] Train with more data
 - [ ] Implement with video
 - [ ] Implement in real time
----
+----
